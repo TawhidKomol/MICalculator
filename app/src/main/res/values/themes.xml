@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.MICalculator" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/display</item>
+        <item name="colorPrimaryDark">@color/display</item>
+        <item name="colorAccent">@color/background</item>
+
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
